@@ -42,20 +42,24 @@ This application centralizes tender information and automatically generates stan
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshot/Dashboard.jpeg)
+
+---
+### New Tender Dashboard
+
+![New Tender Dashboard](Screenshot/Dashboard%20-%20New%20Tender.jpeg)
 
 ---
 
 ### Tender Preview
 
-![Preview](screenshots/preview.png)
-
+![Preview](Screenshot/Preview.jpeg)
 
 ---
 
 ### Power Automate Flow
 
-![Flow](screenshots/flow.png)
+![Flow](Screenshot/Flow.jpeg)
 
 ---
 
